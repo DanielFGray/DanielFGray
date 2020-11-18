@@ -3,7 +3,7 @@
 I'm Dan (he/him), I build websites. I'm a big fan of Node.js and [React ⚛](https://reactjs.org), and lately TypeScript as well. Other libraries and technologies I enjoy using include:
  
 <!-- TODO: more links to own repos with usages of tech -->
-* **[PostGraphile](https://www.graphile.org/postgraphile/)** - generates GraphQL schemas using **[Postgres](https://www.postgresql.org/)** introspection, the [graphile-starter](https://github.com/graphile/starter) is amazing, my [knowledgebase](https://github.com/DanielFGray/knowledgebase) is powered by it.
+* **[PostGraphile](https://www.graphile.org/postgraphile/)** - generates GraphQL schemas using **[Postgres](https://www.postgresql.org/)** introspection, the [graphile-starter](https://github.com/graphile/starter) is amazing.
 * **[Redux](https://redux.js.org)** - especially since **[Redux Toolkit](https://redux-toolkit.js.org/)**, you might check out my [ts-redux-front-end](https://github.com/DanielFGray/ts-redux-frontend/) I made to explore some of it's features.
 * **[Ramda.js 🐏](https://github.com/ramda/ramda)** - I enjoy "functional" programming, and find myself leaning more on Ramda than other utility libraries. I wrote a request to add the P combinator as [R.on](https://github.com/ramda/ramda/commit/f181e06a9d8982a65a829b29410a3765c66f14a2#diff-085407b1efefd1e07aeceeb39e329c4c).
 
