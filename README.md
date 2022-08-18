@@ -9,7 +9,7 @@ I'm Dan (he/him), I build websites. I'm a big fan of Node.js and [React ⚛](htt
 
 [I have a blog](https://danielfgray.com) where I often write about various programming-related things, and occasionally about music. <sup>[source](https://github.com/danielfgray/gqlblog)</sup>
 
-As a Linux 🐧 user, I like to make use of the command line and automate things with Bash scripts. <sup>([1](https://github.com/danielfgray/dotfiles)[2](https://github.com/danielfgray/bin)[3](https://github.com/danielfgray/fzf-scripts))</sup> 
+As a Linux 🐧 user, I like to make use of the command line and automate things with Bash scripts. <sup>([[1]](https://github.com/danielfgray/dotfiles)[[2]](https://github.com/danielfgray/bin)[[3]](https://github.com/danielfgray/fzf-scripts))</sup> 
 
 I have some experience with other languages as well, such as Python, Rust, Haskell, and Clojure.
 
