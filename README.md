@@ -2,7 +2,7 @@
 
 I'm Dan, and I build software. I'm a big fan of Node.js, ReactJS, TypeScript. Other libraries and technologies I enjoy using include:
  
-* [**Postgres**](https://www.postgresql.org/) - the world's most advanced database, is an integral part of almost every app I build
+* [**Postgres**](https://www.postgresql.org/) - the world's most advanced database, is an integral part of almost every app I build.
 * **[PostGraphile](https://www.postgraphile.org/)** - generates GraphQL schemas using introspection data from your Postgres database. The [graphile-starter](https://github.com/graphile/starter) is amazing!
 * **[Redux](https://redux.js.org)** - especially since **[Redux Toolkit](https://redux-toolkit.js.org/)**, is great for managing complex application state. you might check out my [ts-redux-frontend](https://github.com/DanielFGray/ts-redux-frontend/) I made to explore some of it's features.
 * **[Ramda.js 🐏](https://github.com/ramda/ramda)** - I enjoy "functional" programming, and often find myself leaning on Ramda. I wrote a request to add the P combinator as [R.on](https://github.com/ramda/ramda/commit/f181e06a9d8982a65a829b29410a3765c66f14a2#diff-085407b1efefd1e07aeceeb39e329c4c).
