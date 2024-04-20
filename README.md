@@ -1,6 +1,6 @@
 ## Hello world! 👋
 
-I'm Dan, and I build software. I'm a big fan of Node.js, ReactJS, TypeScript. Other libraries and technologies I enjoy using include:
+I'm Dan, and I build software. I'm a big fan of Node.js, ReactJS, and TypeScript. Other libraries and technologies I enjoy using include:
  
 * [**Postgres**](https://www.postgresql.org/) - the world's most advanced database, is an integral part of almost every app I build. I built a code-generation tool called [pg-sourcerer](https://github.com//danielfgray/pg-sourcerer) to generate code from your Postgres database, which was inspired by:
 * **[PostGraphile](https://www.postgraphile.org/)** - generates GraphQL schemas using introspection data from your Postgres database. The [graphile-starter](https://github.com/graphile/starter) is amazing!
