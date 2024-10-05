@@ -14,3 +14,25 @@ As a Linux user, I like to make use of the command line and automate things with
 I have some experience with other languages as well, such as Python, Rust, Haskell, and Clojure.
 
 Outside of programming, I teach teach music, play drums in bands, and attempt to play guitar (at home). Peep the [SoundCloud](https://soundcloud.com/danielfgray)!
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=danielfgray&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=danielfgray&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielfgray&show_icons=true" />
+</picture><picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfgray&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfgray&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfgray&layout=compact"/>
+</picture>
